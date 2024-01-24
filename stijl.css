@@ -142,6 +142,9 @@ li a:hover {
     padding-bottom: 60px;
 }
 
+.text-box{
+    padding-right: 150px;
+}
 
 .locatie-box {
     display: flex;
