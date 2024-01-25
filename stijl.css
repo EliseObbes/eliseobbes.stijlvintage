@@ -171,7 +171,14 @@ li a:hover {
 
 .photo-box img {
     width: 165px;
-    padding: 6px;
+    padding-right: 5px;
+    padding-left: 0px;
+}
+.photo-box2 img {
+    width: 165px;
+    padding-right: 5px;
+    padding-left: 0px;
+    padding-bottom: 5px;
 }
 
 .photo1 img {
